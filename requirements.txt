@@ -1,0 +1,11 @@
+tensorboardX
+pytest
+pytest-mock
+torch
+numpy
+gym
+scikit-learn
+numba
+tensorboard
+pygame
+opencv-python
