@@ -11,7 +11,7 @@ This repository contains the implementation of the Intrinsic Curiosity Module (I
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/intrinsic-curiosity-module.git](https://github.com/alighasemi78/Curiosity-driven-Exploration-by-Self-supervised-Prediction.git)
+   git clone https://github.com/your-username/intrinsic-curiosity-module.git
    cd Curiosity-driven-Exploration-by-Self-supervised-Prediction
    ```
 
