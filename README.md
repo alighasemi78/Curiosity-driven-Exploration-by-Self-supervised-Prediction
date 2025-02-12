@@ -30,3 +30,7 @@ python main.py
 ## Results
 
 The project demonstrates the effectiveness of PPO + ICM in environments like MountainCar, where intrinsic rewards help the agent learn more effectively compared to PPO alone.
+
+## References
+
+* Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. Curiosity-driven exploration by self-supervised prediction, 2017.
